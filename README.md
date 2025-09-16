@@ -15,10 +15,3 @@ Topics such as custom layers and models, custom training loops, distribution str
 This content is for reference and learning purposes only
 Do not copy‑paste these solutions for submission in the course — that violates Coursera’s Honor Code
 Please write your own implementations if you are taking the specialization
-
-📅 Progress Tracker
-
-[x] Course 1 — Custom Models, Layers, and Loss Functions
-[ ] Course 2 — Custom and Distributed Training
-[ ] Course 3 — Advanced Computer Vision
-[ ] Course 4 — Generative Deep Learning
